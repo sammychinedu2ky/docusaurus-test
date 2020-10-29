@@ -1,5 +1,5 @@
 {
-    "startScript":"yarn run start",
+    "startScript":"start",
     "infiniteLoopProtection": true,
     "hardReloadOnChange": true,
     "view": "browser",
