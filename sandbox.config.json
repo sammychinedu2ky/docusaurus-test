@@ -1,5 +1,5 @@
 {
-    "startScript":"start",
+    "startScript":"build",
     "infiniteLoopProtection": true,
     "hardReloadOnChange": true,
     "view": "browser",
