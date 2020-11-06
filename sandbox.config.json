@@ -1,8 +1,0 @@
-{
-    "startScript":"start",
-    "infiniteLoopProtection": true,
-    "hardReloadOnChange": true,
-    "view": "browser",
-    "template": "node"
-    
-  }
